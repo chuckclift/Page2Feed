@@ -1,0 +1,2 @@
+https://lwn.net/ linux_weekly_news div.BlurbListing a div.Headline b
+https://snarkive.lastweekinaws.com/ last_wk_in_aws div.blog_entry span a  div.blog_entry span a
